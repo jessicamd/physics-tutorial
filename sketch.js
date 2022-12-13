@@ -8,7 +8,7 @@ let first_node_y;
 
 let img;
 function preload() {
-  img = loadImage('light.png');
+  img = loadImage('assets/light.png');
 }
 
 function setup() {
